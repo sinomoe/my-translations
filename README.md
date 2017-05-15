@@ -7,6 +7,7 @@
 * [NodeJS是如何工作的](nodejs/NodeJS是如何工作的.md)
 * [阅读Node.js核心源的快速指南](nodejs/阅读Node.js核心源的快速指南.md)
 * [Node.js架构—单线程、事件循环](nodejs/Node.js架构—单线程、事件循环.md)
+* [Node.js的内部代码库体系](nodejs/Node.js的内部代码库体系.md)
 
 ## v8
 
